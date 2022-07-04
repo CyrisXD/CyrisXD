@@ -11,40 +11,40 @@ I'm a software developer based in New Zealand. I enjoy coding open source projec
 <div style="display:flex">
 
 <div style="margin-right:10px; width:50px; height:50px;">
-<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg" alt="JavaScript" width="100%" height="100%"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
 </div>
 
-<div style="margin-right:10px; width:50px; height:50px; background-color:#333; padding:5px; box-sizing:border-box"><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nodejs/nodejs-plain.svg" alt="NodeJS" width="100%" height="100%"/>
+<div style="margin-right:10px; width:50px; height:50px; background-color:#333; padding:5px; box-sizing:border-box"><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nodejs/nodejs-plain.svg" alt="NodeJS" width="50" height="50"/>
 </div>
 
-<div style="margin-right:10px; width:50px; height:50px; background-color:#FFFFFF; padding:10px; box-sizing:border-box"><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/express/express-original.svg" alt="ExpressJS" width="100%" height="100%"/>
+<div style="margin-right:10px; width:50px; height:50px; background-color:#FFFFFF; padding:10px; box-sizing:border-box"><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/express/express-original.svg" alt="ExpressJS" width="50" height="50"/>
 </div>
 
-<div style="margin-right:10px; width:50px; height:50px; padding:5px; box-sizing:border-box"><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original.svg" alt="React" width="100%" height="100%"/>
+<div style="margin-right:10px; width:50px; height:50px; padding:5px; box-sizing:border-box"><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original.svg" alt="React" width="50" height="50"/>
 </div>
 
-<div style="margin-right:10px; width:50px; height:50px; padding:5px; background-color:#FFFFFF; box-sizing:border-box"><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nextjs/nextjs-line.svg" alt="NextJS" width="100%" height="100%"/>
+<div style="margin-right:10px; width:50px; height:50px; padding:5px; background-color:#FFFFFF; box-sizing:border-box"><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nextjs/nextjs-line.svg" alt="NextJS" width="50" height="50"/>
 </div>
 
-<div style="margin-right:10px; width:50px; height:50px; padding:5px; background-color:#FFFFFF; box-sizing:border-box"><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/tailwindcss/tailwindcss-original-wordmark.svg" alt="TailwindCSS" width="100%" height="100%"/>
+<div style="margin-right:10px; width:50px; height:50px; padding:5px; background-color:#FFFFFF; box-sizing:border-box"><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/tailwindcss/tailwindcss-original-wordmark.svg" alt="TailwindCSS" width="50" height="50"/>
 </div>
 
-<div style="margin-right:10px; width:50px; height:50px;"><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/firebase/firebase-plain-wordmark.svg" alt="Firebase" width="100%" height="100%"/>
+<div style="margin-right:10px; width:50px; height:50px;"><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/firebase/firebase-plain-wordmark.svg" alt="Firebase" width="50" height="50"/>
 </div>
 
-<div style="margin-right:10px; width:50px; height:50px;"><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original.svg" alt="VSCode" width="100%" height="100%"/>
+<div style="margin-right:10px; width:50px; height:50px;"><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original.svg" alt="VSCode" width="50" height="50"/>
 </div>
 
-<div style="margin-right:10px; width:50px; height:50px;"><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="100%" height="100%"/>
+<div style="margin-right:10px; width:50px; height:50px;"><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="50" height="50"/>
 </div>
 
-<div style="margin-right:10px; width:50px; height:50px; padding:5px; background-color:#FFFFFF; box-sizing:border-box"><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/github/github-original.svg" alt="Github" width="100%" height="100%"/>
+<div style="margin-right:10px; width:50px; height:50px; padding:5px; background-color:#FFFFFF; box-sizing:border-box"><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/github/github-original.svg" alt="Github" width="50" height="50"/>
 </div>
 
-<div style="margin-right:10px; width:50px; height:50px; box-sizing:border-box"><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-plain.svg" alt="HTML5" width="100%" height="100%"/>
+<div style="margin-right:10px; width:50px; height:50px; box-sizing:border-box"><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-plain.svg" alt="HTML5" width="50" height="50"/>
 </div>
 
-<div style="margin-right:10px; width:50px; height:50px; box-sizing:border-box"><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-original.svg" alt="CSS3" width="100%" height="100%"/>
+<div style="margin-right:10px; width:50px; height:50px; box-sizing:border-box"><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50"/>
 </div>
 
 </div>
