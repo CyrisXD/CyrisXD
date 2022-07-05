@@ -16,7 +16,7 @@ I'm currently working on [@Tweetormator](https://twitter.com/tweetormator). A se
 
 &nbsp;
 
-## ✏️ Blog posts
+## ✏️ &nbsp;Blog posts
 
 <!-- BLOG-POST-LIST:START -->
 
