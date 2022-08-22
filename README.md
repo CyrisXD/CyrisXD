@@ -5,9 +5,6 @@
 # 👋 &nbsp;Hi there
 
 I'm a software developer based in New Zealand. I enjoy coding open-source projects that solve unique problems. I love combining my hobbies like 3D printing, coding and building various projects with RaspberryPi's or Arduino. Slightly obsessed with Home Automation and Home Labs. You can find me on Twitter [@Sudo_Overflow](https://twitter.com/sudo_overflow). Feel free to tweet me any time. You can also check out my website [Cyris.io](https://Cyris.io) for my blog and more.
-&nbsp;
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0xmimiQ&theme=tokyonight)](https://github.com/0xmimiQ/github-readme-stats)
 
 &nbsp;
 
@@ -44,6 +41,8 @@ I'm currently working on [@Tweetormator](https://twitter.com/tweetormator). A se
 
 ## 📊 &nbsp;Stats
 
-![Cyris' Github Stats](https://github-readme-stats.vercel.app/api?username=CyrisXD&hide=contribs,prs&show_icons=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)
+![0xmimiQ's Github Stats](https://github-readme-stats.vercel.app/api?username=0xmimiQ&hide=contribs,prs&show_icons=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=CyrisXD&theme=dark&count_private=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=0xmimiQ&theme=dark&count_private=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0xmimiQ&theme=tokyonight)](https://github.com/0xmimiQ/github-readme-stats)
