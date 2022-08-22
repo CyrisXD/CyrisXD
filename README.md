@@ -14,14 +14,12 @@ I'm currently working on [@Tweetormator](https://twitter.com/tweetormator). A se
 
 &nbsp;
 
-## ✏️ &nbsp;Blog posts
+## ✏️ &nbsp;My Pin Notes
 
-<!-- BLOG-POST-LIST:START -->
-- [Reverse engineering Reolink cameras for custom scenes and modes with Home Automation](https://cyris.io/blog/reverse-engineer-reolink)
-- [Reverse engineering a private API with MITM Proxy](https://cyris.io/blog/reverse-engineer-api-copy)
-- [Generating dynamic images on the fly for Email Marketing](https://cyris.io/blog/canvas-image-generation)
-- [Use Twitter to find developer friends near you](https://cyris.io/blog/find-developer-friends)
-<!-- BLOG-POST-LIST:END -->
+<!-- NOTE-LIST:START -->
+- [Web3 資安意識](https://0xmimiq.gitbook.io/web3-zi-an-yi-shi/)
+- [Phinex Finance on Cronos in Mandarin](https://app.gitbook.com/s/KD5ucI3LxceJPGHAByrK/bai-pi-shu-yuan-wen/bei-zhu)
+<!-- NOTE-POST-LIST:END -->
 
 &nbsp;
 
