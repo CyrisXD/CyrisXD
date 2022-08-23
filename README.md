@@ -9,7 +9,7 @@
 
 # 👋 &nbsp;Hi there
 
-I'm a software developer based in New Zealand. I enjoy coding open-source projects that solve unique problems. I love combining my hobbies like 3D printing, coding and building various projects with RaspberryPi's or Arduino. Slightly obsessed with Home Automation and Home Labs. You can find me on Twitter [@Sudo_Overflow](https://twitter.com/sudo_overflow). Feel free to tweet me any time. You can also check out my website [Cyris.io](https://Cyris.io) for my blog and more.
+I'm a software developer and blockchain player. I love to research and code blockchain related applications. In the past 1 year I've developed quite a few discord bots for blockchain activity monitoring. Now I'm working on web3 and smart contracts. Also am a volunteer for the largest DAO on Cronos chain. The next major goal is to become a validation node for Aptos chain and to learn Move language and write MVM-executable smart contracts.
 
 &nbsp;
 
