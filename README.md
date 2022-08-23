@@ -36,7 +36,10 @@ I'm currently working on [@Tweetormator](https://twitter.com/tweetormator). A se
 
 ## 🖥 &nbsp;Past work
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CyrisXD&repo=Pwnagetty&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/CyrisXD/Pwnagetty) &nbsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CyrisXD&repo=love-lock-card&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/CyrisXD/love-lock-card)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=0xmimiQ&repo=eb_supporter&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/0xmimiQ/eb_supporter) 
+&nbsp;
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=0xmimiQ&repo=pyppeteer-use-case&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/0xmimiQ/pyppeteer-use-case)
 
 &nbsp;
 
