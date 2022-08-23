@@ -1,4 +1,11 @@
 ![Banner](assets/bg.png)
+&nbsp;
+
+![](https://shields.io/badge/ENS-0xmimiQ.eth-blue?logo&style=for-the-badge)&nbsp;
+![](https://shields.io/badge/CNS-0xmimiQ.cro-9cf?logo&style=for-the-badge)&nbsp;
+![](https://shields.io/badge/SNS-0xmimiQ.sol-834ce0?logo&style=for-the-badge)&nbsp;
+![](https://shields.io/badge/UD-0xmimiQ.x-4b92c4?logo&style=for-the-badge)&nbsp;
+
 
 # 👋 &nbsp;Hi there
 
