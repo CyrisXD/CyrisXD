@@ -35,7 +35,7 @@ I'm currently working on [@Tweetormator](https://twitter.com/tweetormator). A se
 ---
 
 ### - Others
-<a href="https://www.adobe.com/tw/products/photoshop.html"><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="50" height="50"/></a> &nbsp;<a href="https://ifttt.com/explore"><img src="/assets/ifttt.png" alt="ifttt" width="50" height="50"/> &nbsp;<img src="/assets/PowerDirector.png" alt="PowerDirector" width="50" height="50"/></a> &nbsp;<a href="https://www.notion.so/"><img src="/assets/Notion.png" alt="Notion" width="50" height="50"/></a> &nbsp;<a href="https://www.rssboard.org/rss-specification"><img src="/assets/rss-feed.png" alt="rss-feed" width="50" height="50"/></a>
+<a href="https://www.adobe.com/tw/products/photoshop.html"><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="50" height="50"/></a> &nbsp;<a href="https://ifttt.com/explore"><img src="/assets/ifttt.png" alt="ifttt" width="50" height="50"/></a> &nbsp;<a href="https://tw.cyberlink.com/"><img src="/assets/PowerDirector.png" alt="PowerDirector" width="50" height="50"/></a> &nbsp;<a href="https://www.notion.so/"><img src="/assets/Notion.png" alt="Notion" width="50" height="50"/></a> &nbsp;<a href="https://www.rssboard.org/rss-specification"><img src="/assets/rss-feed.png" alt="rss-feed" width="50" height="50"/></a>
 
 
 &nbsp;
