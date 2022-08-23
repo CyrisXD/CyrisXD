@@ -6,16 +6,13 @@ I'm a software developer based in New Zealand. I enjoy coding open-source projec
 
 &nbsp;
 
-## 👨‍💻 &nbsp;Development on Blockchains
+## 👨‍💻 &nbsp;Related application development on blockchains
 
-- Ethereum
-- Cronos
-- Aptos
-- Solana
+<a href="https://ethereum.org/" target="_blank"><img src="/assets/ethereum.png" alt="ethereum"/></a> &nbsp;<a href="https://cronos.org/" target="_blank"><img src="/assets/cronos.png" alt="cronos"/></a> &nbsp;<a href="https://aptoslabs.com/" target="_blank"><img src="/assets/aptos.png" alt="aptos"/></a> &nbsp;<a href="https://solana.com/" target="_blank"><img src="/assets/solana.jpg" alt="solana"/></a>
 
 &nbsp;
 
-## ✏️ &nbsp;Pin Notes
+## ✏️ &nbsp;Pin notes
 
 <!-- NOTE-LIST:START -->
 - [Web3 資安意識](https://0xmimiq.gitbook.io/web3-zi-an-yi-shi/)
@@ -31,7 +28,7 @@ I'm a software developer based in New Zealand. I enjoy coding open-source projec
 <a href="https://go.dev/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" alt="Golang" width="50" height="50"/></a> &nbsp;<a href="https://www.iso.org/standard/74528.html" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/c/c-original.svg" alt="C" width="50" height="50"/></a> &nbsp;<a href="https://isocpp.org/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="CPP" width="50" height="50"/></a> &nbsp;<a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original-wordmark.svg" alt="Python" width="50" height="50"/></a> &nbsp;<a href="https://nodejs.org/en/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="50" height="50"/></a> &nbsp;<a href="https://soliditylang.org/" target="_blank"><img src="/assets/solidity.png" alt="solidity" width="50" height="50" style="background-color:green;"/></a> &nbsp;<a href="https://www.java.com/en/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" alt="java" width="50" height="50"/></a> &nbsp;<a href="https://www.markdownguide.org/basic-syntax/" target="_blank"><img src="/assets/markdown.png" alt="markdown" width="50" height="50"/></a>
 ---
 
-### - Dev Tools
+### - Dev tools
 <a href="https://ubuntu.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/ubuntu/ubuntu-plain-wordmark.svg" alt="ubuntu" width="50" height="50"/></a> &nbsp;<a href="https://www.centos.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/centos/centos-original.svg" alt="centos" width="50" height="50"/></a> &nbsp;<a href="https://git-scm.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original-wordmark.svg" alt="Git" width="50" height="50"/></a> &nbsp;<a href="https://github.com/"><img src="https://raw.githubusercontent.com/CyrisXD/CyrisXD/master/assets/Github.png" alt="GitHub" width="50" height="50"/></a> &nbsp;<a href="https://www.mongodb.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="50" height="50"/></a> &nbsp;<a href="https://www.mysql.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="50" height="50"/></a> &nbsp;<a href="https://code.visualstudio.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original.svg" alt="VSCode" width="50" height="50"/></a> &nbsp;<a href="https://www.anaconda.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/anaconda/anaconda-original-wordmark.svg" alt="Anaconda" width="50" height="50"/></a> &nbsp;<a href="https://www.heroku.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original-wordmark.svg" alt="heroku" width="50" height="50"/></a> &nbsp;<a href="https://www.vultr.com/"><img src="https://www.vultr.com/favicon/android-chrome-512x512.png" alt="vultr" width="50" height="50"/></a> &nbsp;<a href="https://cloud.google.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" alt="gcp" width="50" height="50"/></a> &nbsp;<a href="https://hackmd.io/"><img src="/assets/HackMD.png" alt="HackMD" width="50" height="50"/></a> &nbsp;<a href="https://www.gitbook.com/"><img src="/assets/gitbook.png" alt="gitbook" width="50" height="50"/></a> &nbsp;<a href="https://www.docker.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="50" height="50"/></a> &nbsp;<a href="https://docs.pycord.dev/en/stable/"><img src="/assets/pycord.png" alt="pycord" width="50" height="50"/></a> &nbsp;<a href="https://discord.js.org/#/"><img src="https://github.com/devicons/devicon/blob/master/icons/discordjs/discordjs-original-wordmark.svg" alt="DiscordJS" width="50" height="50"/></a> &nbsp;<a href="https://www.qt.io/"><img src="https://github.com/devicons/devicon/blob/master/icons/qt/qt-original.svg" alt="Qt" width="50" height="50"/></a> &nbsp;<a href="https://github.com/puppeteer/puppeteer"><img src="/assets/puppeteer.png" alt="puppeteer" width="50" height="50"/></a> &nbsp;<a href="https://github.com/SeleniumHQ/selenium"><img src="/assets/selenium.png" alt="selenium" width="50" height="50"/></a>
 ---
 
