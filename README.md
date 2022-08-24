@@ -1,4 +1,4 @@
-![Banner](assets/banner.png)
+![Banner](assets/banner-anime.png)
 &nbsp;
 
 <a href="https://etherscan.io/address/0x03762c4478518FBf036ed6062FE9035D2e6D0670" target="_blank"><img src="https://shields.io/badge/ENS-0xmimiQ.eth-blue?logo&style=for-the-badge" alt="ENS"/></a> &nbsp;<a href="https://cronoscan.com/address/0x03762c4478518FBf036ed6062FE9035D2e6D0670" target="_blank"><img src="https://shields.io/badge/CNS-0xmimiQ.cro-9cf?logo&style=for-the-badge" alt="CNS"/></a> &nbsp;<a href="https://solscan.io/account/55r7FvKkcddtgSDfGLKuLwjgJ5o5QiKpopWK7GMgwE2A" target="_blank"><img src="https://shields.io/badge/SNS-0xmimiQ.sol-834ce0?logo&style=for-the-badge" alt="SNS"/></a> &nbsp;<a href="https://ud.me/0xmimiq.x" target="_blank"><img src="https://shields.io/badge/UD-0xmimiQ.x-4b92c4?logo&style=for-the-badge" alt="UD"/></a>
