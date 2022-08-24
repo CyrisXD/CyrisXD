@@ -7,7 +7,7 @@
 
 # 👋 &nbsp;Hi there
 
-I'm a software developer and blockchain player. I love to research and code blockchain related applications. In the past 1 year I've developed quite a few discord bots for blockchain activity monitoring. Now I'm working on web3 and smart contracts. Also am a volunteer for the largest DAO on Cronos chain. The next major goal is to become a validation node for Aptos chain and to learn Move language and write MVM-executable smart contracts. You can find me on [Twitter](https://twitter.com/0xmimiQ) or 0xmimiq@gmail.com.
+I'm a software developer and blockchain player. I love to research and code blockchain related applications. In the past 1 year I've developed quite a few discord bots for blockchain activity monitoring. Now I'm working on web3 and smart contracts. Also am a volunteer for the largest DAO on Cronos chain - [Hidden Fish DAO](https://twitter.com/HiddenFishDAO). The next major goal is to become a validation node for Aptos chain and to learn Move language and write MVM-executable smart contracts. You can find me on [Twitter](https://twitter.com/0xmimiQ) or 0xmimiq@gmail.com.
 
 &nbsp;
 
