@@ -7,7 +7,13 @@
 
 &nbsp;
 
-# 👋 &nbsp;Hi there
+## 👀 &nbsp;Read Mode
+You can click buttons below to change read mode to see simplifier or normal version profile if you want.
+<p align="center">
+<a href="/readme.md"><img src="https://shields.io/badge/ReadMode-Normal-834ce0?logo=GitHub&style=for-the-badge" alt="Normal"/></a> &nbsp;<a href="/versions/readme.md"><img src="https://shields.io/badge/ReadMode-Simple-b942f5?logo=GitHub&style=for-the-badge" alt="Simple"/></a>
+</p>
+
+## 👋 &nbsp;Hi there
 <p>
 I'm a software developer and blockchain player. I love to research and code blockchain related applications. In the past 1 year I've developed quite a few discord bots for blockchain activity monitoring. Now I'm working on web3 and smart contracts. Also am a volunteer for the largest DAO on Cronos chain - [Hidden Fish DAO](https://twitter.com/HiddenFishDAO). The next major goal is to become a validation node for Aptos chain and to learn Move language and write MVM-executable smart contracts. You can find me on [Twitter](https://twitter.com/0xmimiQ) or 0xmimiq@gmail.com.
 </p>
@@ -22,7 +28,6 @@ I'm a software developer and blockchain player. I love to research and code bloc
 &nbsp;
 
 ## 🧰 &nbsp;Toolbox
-
 ### - Language
 <a href="https://go.dev/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" alt="Golang" width="50" height="50"/></a> &nbsp;<a href="https://www.iso.org/standard/74528.html" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/c/c-original.svg" alt="C" width="50" height="50"/></a> &nbsp;<a href="https://isocpp.org/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="CPP" width="50" height="50"/></a> &nbsp;<a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original-wordmark.svg" alt="Python" width="50" height="50"/></a> &nbsp;<a href="https://nodejs.org/en/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="50" height="50"/></a> &nbsp;<a href="https://soliditylang.org/" target="_blank"><img src="/assets/solidity.png" alt="solidity" width="50" height="50" style="background-color:green;"/></a> &nbsp;<a href="https://www.java.com/en/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" alt="java" width="50" height="50"/></a> &nbsp;<a href="https://www.markdownguide.org/basic-syntax/" target="_blank"><img src="/assets/markdown.png" alt="markdown" width="50" height="50"/></a> &nbsp;<a href="#" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" alt="html5" width="50" height="50"/></a> &nbsp;<a href="#" target="_blank"><img src="/assets/sql.png" alt="html5" width="50" height="50"/></a>
 ---
