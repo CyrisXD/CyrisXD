@@ -14,51 +14,93 @@ You can click buttons below to change read mode to see simplifier or normal vers
 </p>
 
 ## 👋 &nbsp;Hi there
-<p>
 I'm a software developer and blockchain player. I love to research and code blockchain related applications. In the past 1 year I've developed quite a few discord bots for blockchain activity monitoring. Now I'm working on web3 and smart contracts. Also am a volunteer for the largest DAO on Cronos chain - [Hidden Fish DAO](https://twitter.com/HiddenFishDAO). The next major goal is to become a validation node for Aptos chain and to learn Move language and write MVM-executable smart contracts. You can find me on [Twitter](https://twitter.com/0xmimiQ) or 0xmimiq@gmail.com.
-</p>
 
 &nbsp;
 
 ## 👨‍💻 &nbsp;Related application development on blockchains
-<p>
-<a href="https://ethereum.org/" target="_blank"><img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge" alt="ethereum"/></a> &nbsp;<a href="https://cronos.org/" target="_blank"><img src="https://img.shields.io/badge/Cronos-375BD2?style=for-the-badge" alt="cronos"/></a> &nbsp;<a href="https://aptoslabs.com/" target="_blank"><img src="https://img.shields.io/badge/Aptos-0AC18E?style=for-the-badge" alt="aptos"/></a> &nbsp;<a href="https://solana.com/" target="_blank"><img src="https://img.shields.io/badge/Solana-834ce0?style=for-the-badge" alt="solana"/></a>
+<p align="center">
+<a href="https://ethereum.org/" target="_blank"><img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge" alt="ethereum"/></a>
+<a href="https://cronos.org/" target="_blank"><img src="https://img.shields.io/badge/Cronos-375BD2?style=for-the-badge" alt="cronos"/></a>
+<a href="https://aptoslabs.com/" target="_blank"><img src="https://img.shields.io/badge/Aptos-0AC18E?style=for-the-badge" alt="aptos"/></a>
+<a href="https://solana.com/" target="_blank"><img src="https://img.shields.io/badge/Solana-834ce0?style=for-the-badge" alt="solana"/></a>
 </p>
 
 &nbsp;
 
 ## 🧰 &nbsp;Toolbox
-### - Language
-<a href="https://go.dev/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" alt="Golang" width="50" height="50"/></a> &nbsp;<a href="https://www.iso.org/standard/74528.html" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/c/c-original.svg" alt="C" width="50" height="50"/></a> &nbsp;<a href="https://isocpp.org/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="CPP" width="50" height="50"/></a> &nbsp;<a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original-wordmark.svg" alt="Python" width="50" height="50"/></a> &nbsp;<a href="https://nodejs.org/en/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="50" height="50"/></a> &nbsp;<a href="https://soliditylang.org/" target="_blank"><img src="/assets/solidity.png" alt="solidity" width="50" height="50" style="background-color:green;"/></a> &nbsp;<a href="https://www.java.com/en/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" alt="java" width="50" height="50"/></a> &nbsp;<a href="https://www.markdownguide.org/basic-syntax/" target="_blank"><img src="/assets/markdown.png" alt="markdown" width="50" height="50"/></a> &nbsp;<a href="#" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" alt="html5" width="50" height="50"/></a> &nbsp;<a href="#" target="_blank"><img src="/assets/sql.png" alt="html5" width="50" height="50"/></a>
----
+<h3 align="center">Language</h3>
+<p align="center">
+  <a href="https://go.dev/" target="_blank"><img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" alt="Golang"/></a>
+  <a href="https://www.iso.org/standard/74528.html" target="_blank"><img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C"/></a>
+  <a href="https://isocpp.org/" target="_blank"><img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="CPP"/></a>
+  <a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/></a>
+  <a href="https://nodejs.org/en/" target="_blank"><img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="nodejs"/></a>
+  <a href="https://soliditylang.org/" target="_blank"><img src="https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white" alt="solidity"/></a>
+  <a href="https://www.java.com/en/" target="_blank"><img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="java"/></a>
+  <a href="https://www.markdownguide.org/basic-syntax/" target="_blank"><img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white" alt="markdown"/></a>
+  <a href="#" target="_blank"><img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="html5"/></a>
+  <a href="#" target="_blank"><img src="https://img.shields.io/badge/sql-%230095D5.svg?style=for-the-badge&logo=sql&logoColor=white" alt="sql"/></a>
+<p>
 
-### - Operating System
-<a href="https://ubuntu.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/ubuntu/ubuntu-plain-wordmark.svg" alt="ubuntu" width="50" height="50"/></a> &nbsp;<a href="https://www.centos.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/centos/centos-original.svg" alt="centos" width="50" height="50"/></a> &nbsp;<a href="https://www.microsoft.com/en-us/windows"><img src="/assets/windows.png" alt="windows" width="50" height="50"/></a>
----
+<h3 align="center">Operating System</h3>
+<p align="center">
+  <a href="https://ubuntu.com/"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="ubuntu"/></a>
+  <a href="https://www.centos.org/"><img src="https://img.shields.io/badge/cent%20os-002260?style=for-the-badge&logo=centos&logoColor=F0F0F0" alt="centos"/></a>
+  <a href="https://www.microsoft.com/en-us/windows"><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="windows"/></a>
+<p>
 
-### - Database
-<a href="https://www.mongodb.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="50" height="50"/></a> &nbsp;<a href="https://www.mysql.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="50" height="50"/></a> &nbsp;<a href="https://www.sqlite.org/index.html"><img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" alt="sqlite" width="50" height="50"/></a>
----
+<h3 align="center">Database</h3>
+<p align="center">
+  <a href="https://www.mongodb.com/"><img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)" alt="MongoDB"/></a>
+  <a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/></a>
+  <a href="https://www.sqlite.org/index.html"><img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" alt="sqlite"/></a>
+</p>
 
-### - Cloud Hosting
-<a href="https://www.vultr.com/"><img src="https://www.vultr.com/favicon/android-chrome-512x512.png" alt="vultr" width="50" height="50"/></a> &nbsp;<a href="https://cloud.google.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" alt="gcp" width="50" height="50"/></a> &nbsp;<a href="https://www.heroku.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original-wordmark.svg" alt="heroku" width="50" height="50"/></a>
----
+<h3 align="center">Cloud Hosting</h3>
+<p align="center">
+  <a href="https://www.vultr.com/"><img src="https://img.shields.io/badge/Vultr-007BFC.svg?style=for-the-badge&logo=vultr" alt="vultr"/></a>
+  <a href="https://cloud.google.com/"><img src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" alt="gcp"/></a>
+  <a href="https://www.heroku.com/"><img src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white" alt="heroku"/></a>
+</p>
 
-### IDE and Editor
-<a href="https://code.visualstudio.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original.svg" alt="VSCode" width="50" height="50"/></a> &nbsp;<a href="https://hackmd.io/"><img src="/assets/HackMD.png" alt="HackMD" width="50" height="50"/></a> &nbsp;<a href="https://www.gitbook.com/"><img src="/assets/gitbook.png" alt="gitbook" width="50" height="50"/></a> &nbsp;<a href="https://www.notion.so/"><img src="/assets/Notion.png" alt="Notion" width="50" height="50"/></a>
----
+<h3 align="center">IDE and Editor</h3>
+<p align="center">
+  <a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode"/></a>
+  <a href="https://hackmd.io/"><img src="https://img.shields.io/badge/HackMD-000000?style=for-the-badge" alt="HackMD"/></a>
+  <a href="https://www.gitbook.com/"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=GitBook&logoColor=white" alt="gitbook"/></a>
+  <a href="https://www.notion.so/"><img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" alt="Notion"/></a>
+</p>
 
-### Dev Tools
-<a href="https://git-scm.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original-wordmark.svg" alt="Git" width="50" height="50"/></a> &nbsp;<a href="https://github.com/"><img src="/assets/Github.png" alt="GitHub" width="50" height="50"/></a> &nbsp;<a href="https://www.docker.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="50" height="50"/></a> 
----
+<h3 align="center">Dev Toolsr</h3>
+<p align="center">
+<a href="https://git-scm.com/"><img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/></a>
+<a href="https://github.com/"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="https://www.docker.com/"><img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="docker"/></a> 
+</p>
 
-### Frameworks and Libraries
-<a href="https://www.anaconda.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/anaconda/anaconda-original-wordmark.svg" alt="Anaconda" width="50" height="50"/></a> &nbsp;<a href="https://docs.pycord.dev/en/stable/"><img src="/assets/pycord.png" alt="pycord" width="50" height="50"/></a> &nbsp;<a href="https://discord.js.org/#/"><img src="https://github.com/devicons/devicon/blob/master/icons/discordjs/discordjs-original-wordmark.svg" alt="DiscordJS" width="50" height="50"/></a> &nbsp;<a href="https://www.qt.io/"><img src="https://github.com/devicons/devicon/blob/master/icons/qt/qt-original.svg" alt="Qt" width="50" height="50"/></a> &nbsp;<a href="https://github.com/puppeteer/puppeteer"><img src="/assets/puppeteer.png" alt="puppeteer" width="50" height="50"/></a> &nbsp;<a href="https://github.com/SeleniumHQ/selenium"><img src="/assets/selenium.png" alt="selenium" width="50" height="50"/></a> &nbsp;<a href="https://flask.palletsprojects.com/en/2.2.x/"><img src="/assets/flask.png" alt="flask" width="50" height="50"/></a> &nbsp;<a href="https://www.djangoproject.com/"><img src="/assets/django.jpeg" alt="django" width="50" height="50"/></a> &nbsp;<a href="https://www.raspberrypi.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg" alt="raspberrypi" width="50" height="50"/></a> &nbsp;<a href="https://pandas.pydata.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" alt="pandas" width="50" height="50"/></a>
----
+<h3 align="center">Frameworks and Libraries</h3>
+<p align="center">
+<a href="https://www.anaconda.com/"><img src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white" alt="Anaconda"/></a>
+<a href="https://docs.pycord.dev/en/stable/"><img src="https://img.shields.io/badge/pycord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" alt="pycord"/></a>
+<a href="https://discord.js.org/#/"><img src="https://img.shields.io/badge/discordjs-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" alt="discordjs" alt="DiscordJS"/></a>
+<a href="https://www.qt.io/"><img src="https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white" alt="Qt"/></a>
+<a href="https://github.com/puppeteer/puppeteer"><img src="https://img.shields.io/badge/puppeteer-6DA55F?style=for-the-badge" alt="puppeteer"/></a>
+<a href="https://github.com/SeleniumHQ/selenium"><img src="https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="selenium"/></a>
+<a href="https://flask.palletsprojects.com/en/2.2.x/"><img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" alt="flask"/></a>
+<a href="https://www.djangoproject.com/"><img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" alt="django"/></a>
+<a href="https://www.raspberrypi.com/"><img src="https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi" alt="raspberrypi"/></a>
+<a href="https://pandas.pydata.org/"><img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas"/></a>
+</p>
 
-### - Others
-<a href="https://www.adobe.com/tw/products/photoshop.html"><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="50" height="50"/></a> &nbsp;<a href="https://ifttt.com/explore"><img src="/assets/ifttt.png" alt="ifttt" width="50" height="50"/></a> &nbsp;<a href="https://tw.cyberlink.com/"><img src="/assets/PowerDirector.png" alt="PowerDirector" width="50" height="50"/></a> &nbsp;<a href="https://www.rssboard.org/rss-specification"><img src="/assets/rss-feed.png" alt="rss-feed" width="50" height="50"/></a> &nbsp;<a href="https://obsproject.com/"><img src="/assets/obs_studio.jpg" alt="rss-feed" width="50" height="50"/></a>
----
+<h3 align="center">Others</h3>
+<p align="center">
+<a href="https://www.adobe.com/tw/products/photoshop.html"><img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" alt="Photoshop"/></a>
+<a href="https://ifttt.com/explore"><img src="https://img.shields.io/badge/IFTTT-black?style=for-the-badge&logo=ifttt&logoColor=white)" alt="ifttt"/></a>
+<a href="https://tw.cyberlink.com/"><img src="https://img.shields.io/badge/PowerDirector-%2339457E.svg?style=for-the-badge" alt="PowerDirector"/></a>
+<a href="https://www.rssboard.org/rss-specification"><img src="https://img.shields.io/badge/rss-F88900?style=for-the-badge&logo=rss&logoColor=white" alt="rss-feed"/></a>
+<a href="https://obsproject.com/"><img src="https://img.shields.io/badge/obs%20studio-%23121011.svg?style=for-the-badge&logo=obs&logoColor=white" alt="rss-feed"/></a>
+</p>
 
 &nbsp;
 
