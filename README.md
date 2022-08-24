@@ -10,7 +10,7 @@
 ## 👀 &nbsp;Read Mode
 You can click buttons below to change read mode to see simplifier or normal version profile if you want.
 <p align="center">
-<a href="/readme.md"><img src="https://shields.io/badge/ReadMode-Normal-834ce0?logo=GitHub&style=for-the-badge" alt="Normal"/></a> &nbsp;<a href="/versions/readme.md"><img src="https://shields.io/badge/ReadMode-Simple-b942f5?logo=GitHub&style=for-the-badge" alt="Simple"/></a>
+<a href="/README.md"><img src="https://shields.io/badge/ReadMode-Normal-834ce0?logo=GitHub&style=for-the-badge" alt="Normal"/></a> &nbsp;<a href="/versions/README.md"><img src="https://shields.io/badge/ReadMode-Simple-b942f5?logo=GitHub&style=for-the-badge" alt="Simple"/></a>
 </p>
 
 ## 👋 &nbsp;Hi there
