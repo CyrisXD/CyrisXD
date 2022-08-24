@@ -57,10 +57,10 @@ I'm a software developer and blockchain player. I love to research and code bloc
 
 ## 🖥 &nbsp;Past work
 <p align="left">
-  <a href="https://github.com/0xmimiQ/eb_supporter"><img height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=0xmimiQ&repo=eb_supporter&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6" alt="Readme Card"></a>
-  <a href="https://github.com/0xmimiQ/pyppeteer-use-case"><img height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=0xmimiQ&repo=pyppeteer-use-case&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6" alt="Readme Card"></a>
-  <a href="https://github.com/0xmimiQ/LineCurrencyBot"><img height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=0xmimiQ&repo=LineCurrencyBot&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6" alt="Readme Card"></a>
-  <a href="https://github.com/0xmimiQ/etherscan_tracker"><img height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=0xmimiQ&repo=etherscan_tracker&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6" alt="Readme Card"></a>
+  <a href="https://github.com/0xmimiQ/eb_supporter"><img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=0xmimiQ&repo=eb_supporter&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6" alt="Readme Card"></a>
+  <a href="https://github.com/0xmimiQ/pyppeteer-use-case"><img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=0xmimiQ&repo=pyppeteer-use-case&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6" alt="Readme Card"></a>
+  <a href="https://github.com/0xmimiQ/LineCurrencyBot"><img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=0xmimiQ&repo=LineCurrencyBot&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6" alt="Readme Card"></a>
+  <a href="https://github.com/0xmimiQ/etherscan_tracker"><img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=0xmimiQ&repo=etherscan_tracker&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6" alt="Readme Card"></a>
 </p>
 &nbsp;
 
