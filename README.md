@@ -42,8 +42,6 @@ These days most of my open-source work is tooling for AI agents: keeping them ru
 
 ## 📊 &nbsp;Stats
 
-![Cyris' Github Stats](https://github-readme-stats.vercel.app/api?username=CyrisXD&hide=contribs,prs&show_icons=true&bg_color=09090b&title_color=f4f4f5&text_color=a1a1aa&icon_color=34d399&border_color=27272a)
-
 ![GitHub Streak](https://streak-stats.demolab.com/?user=CyrisXD&theme=dark&background=09090b&border=27272a&ring=34d399&fire=34d399&currStreakLabel=34d399&sideLabels=a1a1aa&dates=71717a&currStreakNum=f4f4f5&sideNums=f4f4f5&stroke=27272a)
 
 <a rel="me" href="https://mastodon.nz/@Sudo_Overflow">Follow me on Mastodon</a> · [sudolabs.nz](https://sudolabs.nz)
