@@ -1,0 +1,94 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="320" viewBox="0 0 960 320" role="img" aria-labelledby="t">
+  <title id="t">Hey, I'm Cyris. Full-stack developer in New Zealand, building tools for AI agents at Sudolabs.</title>
+  <defs>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#ffffff" stroke-opacity=".05"/>
+    </pattern>
+    <radialGradient id="fade" cx="35%" cy="50%" r="75%">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0"/>
+    </radialGradient>
+    <mask id="gridMask"><rect width="960" height="320" fill="url(#fade)"/></mask>
+    <filter id="blur" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="60"/></filter>
+    <linearGradient id="name" x1="0" x2="1">
+      <stop offset="0" stop-color="#ffffff"/>
+      <stop offset=".7" stop-color="#f4f4f5"/>
+      <stop offset="1" stop-color="#a1a1aa"/>
+    </linearGradient>
+    <linearGradient id="border" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#ffffff" stop-opacity=".14"/>
+      <stop offset=".5" stop-color="#ffffff" stop-opacity=".06"/>
+      <stop offset="1" stop-color="#10b981" stop-opacity=".35"/>
+    </linearGradient>
+    <clipPath id="card"><rect width="960" height="320" rx="20"/></clipPath>
+  </defs>
+
+  <style>
+    .mono { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace; }
+    .sans { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Helvetica Neue", Arial, sans-serif; }
+    .orb1 { animation: drift1 14s ease-in-out infinite alternate; }
+    .orb2 { animation: drift2 18s ease-in-out infinite alternate; }
+    @keyframes drift1 { to { transform: translate(140px, 40px); } }
+    @keyframes drift2 { to { transform: translate(-160px, -30px); } }
+    .line { opacity: 0; animation: cycle 12s infinite; }
+    .l2 { animation-delay: 4s; }
+    .l3 { animation-delay: 8s; }
+    @keyframes cycle {
+      0%      { opacity: 0; transform: translateY(10px); }
+      4%, 30% { opacity: 1; transform: translateY(0); }
+      34%, 100% { opacity: 0; transform: translateY(-10px); }
+    }
+    .cursor { animation: blink 1s steps(1) infinite; }
+    @keyframes blink { 50% { opacity: 0; } }
+    .dot { animation: pulse 2s ease-in-out infinite; transform-origin: 64px 56px; }
+    @keyframes pulse { 50% { opacity: .35; } }
+    .float { animation: float 6s ease-in-out infinite alternate; }
+    @keyframes float { to { transform: translateY(-8px); } }
+    .rise { animation: rise .9s ease-out both; }
+    .r2 { animation-delay: .15s; }
+    .r3 { animation-delay: .3s; }
+    @keyframes rise { from { opacity: 0; transform: translateY(12px); } }
+  </style>
+
+  <g clip-path="url(#card)">
+    <rect width="960" height="320" fill="#09090b"/>
+    <circle class="orb1" cx="180" cy="80" r="150" fill="#ffffff" opacity=".10" filter="url(#blur)"/>
+    <circle class="orb2" cx="820" cy="260" r="170" fill="#10b981" opacity=".16" filter="url(#blur)"/>
+    <rect width="960" height="320" fill="url(#grid)" mask="url(#gridMask)"/>
+  </g>
+  <rect x=".5" y=".5" width="959" height="319" rx="20" fill="none" stroke="url(#border)"/>
+
+  <g class="rise">
+    <rect x="48" y="40" width="226" height="32" rx="16" fill="#ffffff" fill-opacity=".06" stroke="#ffffff" stroke-opacity=".1"/>
+    <circle class="dot" cx="66" cy="56" r="4" fill="#10b981"/>
+    <text x="80" y="61" class="mono" font-size="13" fill="#d4d4d8">open to projects · NZ</text>
+  </g>
+
+  <g class="rise r2">
+    <text x="46" y="158" class="sans" font-size="64" font-weight="700" letter-spacing="-2" fill="url(#name)">Hey, I'm Cyris.</text>
+  </g>
+
+  <g class="rise r3 mono" font-size="20">
+    <text x="48" y="222" fill="#71717a">~</text>
+    <text x="66" y="222" fill="#34d399">❯</text>
+    <g fill="#f4f4f5">
+      <text class="line" x="92" y="222">building tools for AI agents<tspan class="cursor" fill="#34d399"> ▌</tspan></text>
+      <text class="line l2" x="92" y="222">shipping web apps at sudolabs.nz<tspan class="cursor" fill="#34d399"> ▌</tspan></text>
+      <text class="line l3" x="92" y="222">home labs, automation &amp; 3D printing<tspan class="cursor" fill="#34d399"> ▌</tspan></text>
+    </g>
+  </g>
+
+  <g class="rise r3"><g class="float">
+    <rect x="640" y="56" width="272" height="150" rx="14" fill="#18181b" fill-opacity=".7" stroke="#ffffff" stroke-opacity=".1"/>
+    <circle cx="662" cy="78" r="5" fill="#ff5f57"/><circle cx="680" cy="78" r="5" fill="#febc2e"/><circle cx="698" cy="78" r="5" fill="#28c840"/>
+    <text x="890" y="82" text-anchor="end" class="mono" font-size="11" fill="#71717a">~/projects</text>
+    <line x1="640" y1="96" x2="912" y2="96" stroke="#ffffff" stroke-opacity=".08"/>
+    <g class="mono" font-size="14" fill="#d4d4d8">
+      <circle cx="664" cy="121" r="4" fill="#34d399"/><text x="680" y="126">pilot-light</text>
+      <circle cx="664" cy="153" r="4" fill="#34d399"/><text x="680" y="158">agent-notify</text>
+      <circle cx="664" cy="185" r="4" fill="#34d399"/><text x="680" y="190">block-clankers</text>
+    </g>
+  </g></g>
+
+  <text x="912" y="282" text-anchor="end" class="mono" font-size="13" fill="#71717a">github.com/CyrisXD</text>
+</svg>

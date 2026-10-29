@@ -10,8 +10,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
-        uses: actions/checkout@v2
-      - name: Pull in Cyris.io posts
+        uses: actions/checkout@v4
+      - name: Pull in Sudolabs posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "https://cyris.io/feed.xml"
+          feed_list: "https://sudolabs.nz/feed.xml"
