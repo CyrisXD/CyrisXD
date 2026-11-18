@@ -25,11 +25,11 @@ These days most of my open-source work is tooling for AI agents: keeping them ru
 ## ✏️ &nbsp;Latest from the blog
 
 <!-- BLOG-POST-LIST:START -->
+- [Gitview: See What Claude Is Doing to Your Repository, As It Happens](https://sudolabs.nz/blog/gitview-live-git-graph-for-claude-code)
 - [Pilot Light: Keep Your Agents Running With the MacBook Lid Closed](https://sudolabs.nz/blog/pilot-light-macbook-lid-closed-agents)
 - [Reverse Engineer Everything: the free alternatives the AI clone wave has produced so far](https://sudolabs.nz/blog/reverse-engineer-everything-free-alternatives-ai-clone-wave)
 - [Agent-notify: Let Your AI Agents Email You When It Matters](https://sudolabs.nz/blog/agent-notify-let-your-ai-agents-email-you-when-it-matters)
 - [How to connect the Hermes Desktop App to a Remote Hermes Backend &lpar;the clean way&rpar;](https://sudolabs.nz/blog/how-to-connect-the-hermes-desktop-app-to-a-remote-hermes-backend-the-clean-way)
-- [Block Clankers: A GitHub Action That Auto-Blocks Bot PR Spam](https://sudolabs.nz/blog/block-clankers-github-actions)
 <!-- BLOG-POST-LIST:END -->
 
 &nbsp;
