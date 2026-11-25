@@ -14,11 +14,11 @@ These days most of my open-source work is tooling for AI agents: keeping them ru
 
 | Project | What it does |
 | --- | --- |
-| 🧹 [**Reply Hygiene**](https://github.com/CyrisXD/reply-hygiene) | Chrome extension that blocks the AI reply accounts on the blockedforaireply.com list from your X account, slowly and within X's rate limits. [Website](https://cyrisxd.github.io/reply-hygiene/) |
-| 🌿 [**Gitview**](https://github.com/CyrisXD/gitview-for-claude) | Claude Code plugin with a live branch and commit graph beside the chat, inline diffs, and git actions you confirm before they run. |
-| 🔥 [**Pilot Light**](https://github.com/CyrisXD/pilot-light) | Keep your MacBook awake with the lid closed so AI agents keep working, on under a third of the power. [pilotlight.sudolabs.nz](https://pilotlight.sudolabs.nz) |
-| 📬 [**agent-notify**](https://github.com/CyrisXD/agent-notify) | Let Claude, ChatGPT, Grok Bot and any MCP agent email you when something needs your attention. Free, private, one-click deploy to Cloudflare Workers. |
-| 🛡️ [**block-clankers**](https://github.com/CyrisXD/block-clankers) | Auto-block known spam bot accounts from your GitHub account and every org you admin. |
+| 🧹&nbsp;[**Reply&nbsp;Hygiene**](https://github.com/CyrisXD/reply-hygiene) | Chrome extension that blocks the AI reply accounts on the blockedforaireply.com list from your X account, slowly and within X's rate limits. [Website](https://cyrisxd.github.io/reply-hygiene/) |
+| 🌿&nbsp;[**Gitview**](https://github.com/CyrisXD/gitview-for-claude) | Claude Code plugin with a live branch and commit graph beside the chat, inline diffs, and git actions you confirm before they run. |
+| 🔥&nbsp;[**Pilot&nbsp;Light**](https://github.com/CyrisXD/pilot-light) | Keep your MacBook awake with the lid closed so AI agents keep working, on under a third of the power. [pilotlight.sudolabs.nz](https://pilotlight.sudolabs.nz) |
+| 📬&nbsp;[**agent&#8209;notify**](https://github.com/CyrisXD/agent-notify) | Let Claude, ChatGPT, Grok Bot and any MCP agent email you when something needs your attention. Free, private, one-click deploy to Cloudflare Workers. |
+| 🛡️&nbsp;[**block&#8209;clankers**](https://github.com/CyrisXD/block-clankers) | Auto-block known spam bot accounts from your GitHub account and every org you admin. |
 
 🤝 &nbsp;I also contribute to [**Rakazo**](https://github.com/CyrisXD/rakazo), an open-source Grok Bot alternative where you choose your own model and sandbox. [rakazo.com](https://rakazo.com)
 
