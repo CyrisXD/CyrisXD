@@ -6,7 +6,7 @@
 
 I'm Cyris, a self-taught senior full-stack developer in New Zealand with 17 years of shipping software for award-winning campaigns, NZ enterprises and email marketing. I run [Sudolabs](https://sudolabs.nz), building custom web apps and automations.
 
-These days most of my open-source work is tooling for AI agents: keeping them running, letting them reach you, and keeping the bots out of your repos. Outside of that it's home labs, home automation and 3D printing.
+These days most of my open-source work is tooling for AI agents: keeping them running, letting them reach you, seeing what they've changed, and keeping the bots out of your repos and your replies. Outside of that it's home labs, home automation and 3D printing.
 
 &nbsp;
 
@@ -14,6 +14,8 @@ These days most of my open-source work is tooling for AI agents: keeping them ru
 
 | Project | What it does |
 | --- | --- |
+| 🧹 [**Reply Hygiene**](https://github.com/CyrisXD/reply-hygiene) | Chrome extension that blocks the AI reply accounts on the blockedforaireply.com list from your X account, slowly and within X's rate limits. [Website](https://cyrisxd.github.io/reply-hygiene/) |
+| 🌿 [**Gitview**](https://github.com/CyrisXD/gitview-for-claude) | Claude Code plugin with a live branch and commit graph beside the chat, inline diffs, and git actions you confirm before they run. |
 | 🔥 [**Pilot Light**](https://github.com/CyrisXD/pilot-light) | Keep your MacBook awake with the lid closed so AI agents keep working, on under a third of the power. [pilotlight.sudolabs.nz](https://pilotlight.sudolabs.nz) |
 | 📬 [**agent-notify**](https://github.com/CyrisXD/agent-notify) | Let Claude, ChatGPT, Grok Bot and any MCP agent email you when something needs your attention. Free, private, one-click deploy to Cloudflare Workers. |
 | 🛡️ [**block-clankers**](https://github.com/CyrisXD/block-clankers) | Auto-block known spam bot accounts from your GitHub account and every org you admin. |
@@ -25,11 +27,11 @@ These days most of my open-source work is tooling for AI agents: keeping them ru
 ## ✏️ &nbsp;Latest from the blog
 
 <!-- BLOG-POST-LIST:START -->
+- [Reply Hygiene: Clear AI Reply Accounts Out of X, Without Babysitting It](https://sudolabs.nz/blog/reply-hygiene-block-ai-reply-accounts-on-x)
 - [Gitview: See What Claude Is Doing to Your Repository, As It Happens](https://sudolabs.nz/blog/gitview-live-git-graph-for-claude-code)
 - [Pilot Light: Keep Your Agents Running With the MacBook Lid Closed](https://sudolabs.nz/blog/pilot-light-macbook-lid-closed-agents)
 - [Reverse Engineer Everything: the free alternatives the AI clone wave has produced so far](https://sudolabs.nz/blog/reverse-engineer-everything-free-alternatives-ai-clone-wave)
 - [Agent-notify: Let Your AI Agents Email You When It Matters](https://sudolabs.nz/blog/agent-notify-let-your-ai-agents-email-you-when-it-matters)
-- [How to connect the Hermes Desktop App to a Remote Hermes Backend &lpar;the clean way&rpar;](https://sudolabs.nz/blog/how-to-connect-the-hermes-desktop-app-to-a-remote-hermes-backend-the-clean-way)
 <!-- BLOG-POST-LIST:END -->
 
 &nbsp;
