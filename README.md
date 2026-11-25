@@ -14,7 +14,7 @@ These days most of my open-source work is tooling for AI agents: keeping them ru
 
 | Project | What it does |
 | --- | --- |
-| 🧹&nbsp;[**Reply&nbsp;Hygiene**](https://github.com/CyrisXD/reply-hygiene) | Chrome extension that blocks the AI reply accounts on the blockedforaireply.com list from your X account, slowly and within X's rate limits. [Website](https://cyrisxd.github.io/reply-hygiene/) |
+| 🧹&nbsp;[**Reply&nbsp;Hygiene**](https://github.com/CyrisXD/reply-hygiene) | Chrome extension that blocks the AI reply accounts on the blockedforaireply.com list from your X account, slowly and within X's rate limits. [Website](https://replyhygiene.sudolabs.nz/) · [Chrome Web Store](https://chromewebstore.google.com/detail/reply-hygiene/mcoecledhnlpaoijfkkabfefefeolkhj) |
 | 🌿&nbsp;[**Gitview**](https://github.com/CyrisXD/gitview-for-claude) | Claude Code plugin with a live branch and commit graph beside the chat, inline diffs, and git actions you confirm before they run. |
 | 🔥&nbsp;[**Pilot&nbsp;Light**](https://github.com/CyrisXD/pilot-light) | Keep your MacBook awake with the lid closed so AI agents keep working, on under a third of the power. [pilotlight.sudolabs.nz](https://pilotlight.sudolabs.nz) |
 | 📬&nbsp;[**agent&#8209;notify**](https://github.com/CyrisXD/agent-notify) | Let Claude, ChatGPT, Grok Bot and any MCP agent email you when something needs your attention. Free, private, one-click deploy to Cloudflare Workers. |
